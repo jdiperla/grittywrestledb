@@ -2,14 +2,14 @@
   "version": 1,
   "packs": [
     {
-      "id": "prowrest-usa-2025",
-      "title": "ProWrest USA 2025",
-      "author": "KayfabeLabs",
+      "id": "sample-pack",
+      "title": "Sample Pack",
+      "author": "Gritty Wrestling",
       "version": "1.0.0",
       "size_bytes": 123456,
       "sha256": "put-the-real-sha256-here",
-      "download_url": "https://cdn.jsdelivr.net/gh/jdiperla/wrestlingsim-dbs/packs/prowrest-usa-2025/1.0.0/pack.zip",
-      "manifest_url": "https://cdn.jsdelivr.net/gh/jdiperla/wrestlingsim-dbs/packs/prowrest-usa-2025/1.0.0/manifest.json"
+      "download_url": "https://cdn.jsdelivr.net/gh/jdiperla/grittywrestledb/packs/samplepack/pack.zip",
+      "manifest_url": "https://cdn.jsdelivr.net/gh/jdiperla/grittywrestledb/packs/samplepack/manifest.json"
     }
   ]
 }
