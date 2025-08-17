@@ -1,0 +1,9 @@
+{
+  "id": "sample-packs",
+  "title": "Sample Packs",
+  "version": "1.0.0",
+  "game_version": ">=1.0.0",
+  "tags": ["modern", "usa"],
+  "description": "No real federations or wrestlers. Just data to fill the game with so you can play the game.",
+  "changelog": ["Added stables", "Balanced stats"]
+}
