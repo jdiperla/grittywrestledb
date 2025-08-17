@@ -8,8 +8,8 @@
       "version": "1.0.0",
       "size_bytes": 123456,
       "sha256": "put-the-real-sha256-here",
-      "download_url": "https://cdn.jsdelivr.net/gh/<your-username>/wrestlingsim-dbs/packs/prowrest-usa-2025/1.0.0/pack.zip",
-      "manifest_url": "https://cdn.jsdelivr.net/gh/<your-username>/wrestlingsim-dbs/packs/prowrest-usa-2025/1.0.0/manifest.json"
+      "download_url": "https://cdn.jsdelivr.net/gh/jdiperla/wrestlingsim-dbs/packs/prowrest-usa-2025/1.0.0/pack.zip",
+      "manifest_url": "https://cdn.jsdelivr.net/gh/jdiperla/wrestlingsim-dbs/packs/prowrest-usa-2025/1.0.0/manifest.json"
     }
   ]
 }
