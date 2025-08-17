@@ -7,7 +7,7 @@
       "author": "Gritty Wrestling",
       "version": "1.0.0",
       "size_bytes": 123456,
-      "sha256": "put-the-real-sha256-here",
+      "sha256": "",
       "download_url": "https://cdn.jsdelivr.net/gh/jdiperla/grittywrestledb/packs/samplepack/pack.zip",
       "manifest_url": "https://cdn.jsdelivr.net/gh/jdiperla/grittywrestledb/packs/samplepack/manifest.json"
     }
