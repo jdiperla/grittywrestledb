@@ -1,0 +1,9 @@
+{
+  "id": "gritty-universe",
+  "title": "Gritty Wrestling Universe",
+  "version": "1.0.0",
+  "game_version": ">=1.0.0",
+  "tags": ["modern", "usa"],
+  "description": "Take a whack at bringing matches to life with the official Gritty Wresting Manager Universe (Still under development)",
+  "changelog": ["Added stables", "Balanced stats"]
+}
