@@ -8,8 +8,8 @@
       "version": "1.0.0",
       "size_bytes": 123456,
       "sha256": "",
-      "download_url": "https://cdn.jsdelivr.net/gh/jdiperla/grittywrestledb@main/packs/samplepack/pack.zip",
-      "manifest_url": "https://cdn.jsdelivr.net/gh/jdiperla/grittywrestledb@main/packs/samplepack/manifest.json"
+      "download_url": "https://raw.githubusercontent.com/jdiperla/grittywrestledb/main/packs/samplepack/pack.zip",
+      "manifest_url": "https://raw.githubusercontent.com/jdiperla/grittywrestledb/main/packs/samplepack/manifest.json"
     },
     {
       "id": "gritty-universe",
@@ -18,8 +18,8 @@
       "version": "1.0.0",
       "size_bytes": 123456,
       "sha256": "",
-      "download_url": "https://cdn.jsdelivr.net/gh/jdiperla/grittywrestledb@main/packs/grittyuniverse/gritty.zip",
-      "manifest_url": "https://cdn.jsdelivr.net/gh/jdiperla/grittywrestledb@main/packs/grittyuniverse/manifest.json"
+      "download_url": "https://raw.githubusercontent.com/jdiperla/grittywrestledb/main/packs/grittyuniverse/gritty.zip",
+      "manifest_url": "https://raw.githubusercontent.com/jdiperla/grittywrestledb/main/packs/grittyuniverse/manifest.json"
     }
   ]
 }
